@@ -2,14 +2,14 @@
 
 Message feedback or bug:
 - Issue in this github page  
-- Email: (extension.dev.lab@gmail.com)[mailto:extension.dev.lab@gmail.com]
-
+- Email: [extension.dev.lab@gmail.com](mailto:extension.dev.lab@gmail.com)
+- My X Profile - [https://x.com/byghoster](https://x.com/byghoster)
 
 RAR Opener is your simple solution for opening, downloading, and extracting .rar, .7z, .tar.gz and .zip archives easily.
 
-Landing Page: (https://sites.google.com/view/rar-file-opener-extension)[https://sites.google.com/view/rar-file-opener-extension]
+Landing Page: [https://sites.google.com/view/rar-file-opener-extension](https://sites.google.com/view/rar-file-opener-extension)
 
-Chrome Web Store: (Rar file Opener)[https://chromewebstore.google.com/detail/rar-file-opener/pmcmdolmboaemloaaiicfllekloegphh]
+Chrome Web Store: [Rar file Opener](https://chromewebstore.google.com/detail/rar-file-opener/pmcmdolmboaemloaaiicfllekloegphh)
 
 Install RAR File Opener to quickly extract RAR archives directly in your browser. Easily open RAR files on Mac OS, Windows 10/11, Linux, and Chrome OS without needing WinRAR or additional software.
 
