@@ -1,4 +1,4 @@
-# RAR-file-opener Feedback page
+# RAR file opener Feedback page
 
 Message feedback or bug:
 - Issue in this github page  
